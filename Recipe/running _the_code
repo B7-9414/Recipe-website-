@@ -2,7 +2,7 @@ Running the server:
     1) download the recipe.zip  
     2) open it on editor such as, Visual Studio , intellij or codio
     3) open the Terminal 
-    4) typing_1 (cd funDish) 
+    4) typing_1 (cd ...) 
     5) typing_2  (nodemon app.js or node app.js)
     6) * if you are runing this on visual Studio or intellij open google chrome and type the IP and port 
         which is http:/127.0.0.1:3000
